@@ -19,7 +19,7 @@ Usuario Propietario: 2
 Contraseña:2
 
 
-No es quizas la gran cosa pero es lo que entregue a el SENA para culminar los estudois de tecnologia.
+SENA
 Muchas Gracias
 
 
