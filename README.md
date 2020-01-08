@@ -18,10 +18,11 @@ Contraseña:1
 Usuario Propietario: 2
 Contraseña:2
 
-
+Recomendaciones>Hay modulos faltantes en el area de apartamentos, es necesario corregir cambios los cuales seran efectuados en proximas ocaciones.
 SENA
 Muchas Gracias
 
 
 José Luis Gómez Barrera
+
 
