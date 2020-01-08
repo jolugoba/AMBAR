@@ -19,7 +19,7 @@ Usuario Propietario: 2
 Contraseña:2
 
 Recomendaciones>Hay modulos faltantes en el area de apartamentos, es necesario corregir cambios los cuales seran efectuados en proximas ocaciones.
-SENA
+SENA,youtube,google y muchos otros personajes de los cuales aprendi
 Muchas Gracias
 
 
